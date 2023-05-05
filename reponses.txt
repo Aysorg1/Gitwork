@@ -1,0 +1,8 @@
+1-) Git pull permet de duppliquer un projet provenant d'un repository et de l'intégrer a la branch utiliser
+Git fecht permet de duppliquer un projet provenant d'un repository
+
+2-) on peut le faire avec git checkout
+
+3-) avec git rm
+
+4-) on peut le faire avec git log
